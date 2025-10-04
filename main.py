@@ -41,7 +41,7 @@ agent = BayesianRegression(
 )
 
 
-n_episodes = 20
+n_episodes = 100
 rewards_history = []
 prediction_errors = []
 
